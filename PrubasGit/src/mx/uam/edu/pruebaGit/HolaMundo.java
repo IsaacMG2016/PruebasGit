@@ -10,7 +10,6 @@ public class HolaMundo {
         
         System.out.println("Hola Mundo\n");
         System.out.println("Conectando Netbeans a -> ");
-        System.out.println("Conectando a Git\n");
     }
     
 }
