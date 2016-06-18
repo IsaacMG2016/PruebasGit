@@ -29,7 +29,4 @@ public class Cuadrado {
         this.altura = altura;
     }
     
-    
-    
-    
-}
+}// fin class
